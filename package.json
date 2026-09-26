@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scryfall",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Scryfall MCP — Magic: The Gathering card database.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9d9db5f055146665f91e95faa88e6b30d9c8bac6b751a6c2967b115de5430030",
-    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
+    "sourceHash": "v1-f474385602413687c0244685ffc5aabd0df6d49469e517b0cdafd0397d542abc",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
