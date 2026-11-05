@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scryfall",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Scryfall MCP — Magic: The Gathering card database. Keyless. Scryfall requires a User-Agent and Accept: application/json header.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "scryfall",
     "gatewaySlug": "scryfall",
-    "sourceHash": "v1-a02cfa0a1db0acda0bb39e6490c00ff8c615f27474eca87918e4935ac955f33c",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-fb24ced5e6f98e6bb77e5fa577effcba249ed20165759c89f9bea9bbb23ddfa5",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
